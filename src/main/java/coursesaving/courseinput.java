@@ -27,6 +27,7 @@ public class courseinput {
 		in.save(c);
 		
 		System.out.println("done");
+		System.out.println("done2");
 		
 	}
 
